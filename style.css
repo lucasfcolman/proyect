@@ -32,7 +32,7 @@ html, body{
     border: 4px;
 
 }
-.element-style {
+.element-styleg {
     display: flex;
     padding: 30px 20px 5px 16px;}
 
@@ -411,4 +411,11 @@ transform: translateX(200px);
 }
 .animation-img:hover{
     transform: scale(2);
+}
+
+.row{
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    
 }
